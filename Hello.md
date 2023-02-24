@@ -39,3 +39,16 @@ Git add
 
 ![Картинка](https://vetandlife.ru/wp-content/uploads/2021/05/daa0ff6c8e061bc412d254bc24f6c342.jpg)
 [Работа с markdown](https://lifehacker.ru/chto-takoe-markdown/)
+
+
+## Работа со списками
+
+1. Один
+2. Два
+
+*
+*
++
++
+-
+-
